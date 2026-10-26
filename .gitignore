@@ -1,0 +1,16 @@
+# MATLAB / Simulink
+*.asv
+*.m~
+*.mex*
+*.slxc
+*.autosave
+*.slx.r20*
+slprj/
+codegen/
+*_ert_rtw/
+*_grt_rtw/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
